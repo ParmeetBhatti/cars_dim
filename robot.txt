@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://github.com/ParmeetBhatti/cars_dim/blob/main/sitemap.xml
